@@ -19,7 +19,7 @@ export class AppComponent {
 
     this.dadoIzquierdo='../assets/imagenes/dado'+this.numeroInferior+'.png';
     this.dadoDerecho='../assets/imagenes/dado'+this.numeroSuperior+'.png';
-    console.log(this.numeroInferior,this.numeroSuperior);
+   
 
   }
   
